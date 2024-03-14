@@ -1,4 +1,6 @@
 ### Python - Variable Annotations <br><br>
+![image](https://github.com/Smambo/alx-backend-python/assets/113464914/836f481a-925d-4b09-b1f0-dd5040b725dc) <br>
+
 Python is a dynamically-typed language. That means that variable types are dynamically set at run-time, upon assignment of a value to a variable.
 
 For example, in
