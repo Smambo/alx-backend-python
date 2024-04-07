@@ -4,6 +4,9 @@
 import unittest
 from typing import Dict
 
+from client import (
+    GithubOrgClient
+)
 from unittest.mock import (
     MagicMock,
     Mock,
